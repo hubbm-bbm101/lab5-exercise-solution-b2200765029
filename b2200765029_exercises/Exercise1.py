@@ -14,5 +14,3 @@ for i in range(1, N + 1):
             average = evenSum / evenNumbers
 print("The sum of odd numbers : {0}".format(oddSum))
 print("The average of even numbers : {0}".format(average))
-    
-
